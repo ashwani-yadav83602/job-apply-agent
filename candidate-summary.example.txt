@@ -1,0 +1,11 @@
+Copy this file to candidate-summary.txt and fill in only what's true. This is the
+ONLY source the agent is allowed to draw from when drafting a cover note — it will
+not invent skills beyond what's written here.
+
+Example:
+
+4.5+ years as a Frontend/Full Stack Developer. Core stack: React.js 18, TypeScript,
+Redux Toolkit, TanStack Query, Node.js, Express.js, MongoDB. Also worked with Web3
+tooling (ethers.js, Alchemy API, Sumsub KYC) at Antier Solutions. Looking to move
+into high-scale consumer product companies. Working knowledge (not core claims) of
+Redis and GraphQL — do not overclaim these.

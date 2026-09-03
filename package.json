@@ -1,0 +1,27 @@
+{
+  "name": "job-apply-agent",
+  "version": "0.1.0",
+  "description": "A personal automation agent that tailors your resume to a job description and fills out an Indeed application on your behalf, pausing for review before final submission.",
+  "type": "module",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "typecheck": "tsc --noEmit",
+    "login": "tsx src/scripts/save-indeed-session.ts",
+    "apply": "tsx src/index.ts",
+    "batch-apply": "tsx src/scripts/batch-apply.ts"
+  },
+  "keywords": ["job-search", "automation", "agent", "indeed", "playwright"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "playwright": "^1.47.0",
+    "@anthropic-ai/sdk": "^0.27.0",
+    "dotenv": "^16.4.5"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.24",
+    "tsx": "^4.7.1",
+    "typescript": "^5.3.3"
+  }
+}

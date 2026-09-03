@@ -1,0 +1,5 @@
+4.5+ years as a Frontend/Full Stack Developer. Core stack: React.js 18, TypeScript,
+Redux Toolkit, TanStack Query, Node.js, Express.js, MongoDB. Also worked with Web3
+tooling (ethers.js, Alchemy API, Sumsub KYC) at Antier Solutions. Looking to move
+into high-scale consumer product companies. Working knowledge (not core claims) of
+Redis and GraphQL — do not overclaim these.
